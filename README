@@ -1,7 +1,14 @@
 ## Spring初学项目
 ## 资料
-https://spring.io/guides
-https://spring.io/guides/gs/serving-web-content/
-https://elasticsearch.cn/explore
+[Spring 文档](https://spring.io/guides)
+
+[Spring 外部文档](https://spring.io/guides/gs/serving-web-content/)
+
+[es社区去](https://elasticsearch.cn/explore)
+
+[Github OAuth](https://developer.github.com/apps/building-github-apps/creating-a-github-app/)
+https://developer.github.com/apps/building-oauth-apps/authorizing-oauth-apps/
 ##工具
 
+https://square.github.io/okhttp/
+https://mvnrepository.com/artifact/com.alibaba/fastjson/1.2.58
