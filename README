@@ -7,8 +7,14 @@
 [es社区去](https://elasticsearch.cn/explore)
 
 [Github OAuth](https://developer.github.com/apps/building-github-apps/creating-a-github-app/)
+
 https://developer.github.com/apps/building-oauth-apps/authorizing-oauth-apps/
+
 [MYSQL数据库](https://www.runoob.com/mysql/mysql-tutorial.html)
+
+[Spring-boot-mybatis](http://www.mybatis.org/spring-boot-starter/mybatis-spring-boot-autoconfigure/)
+
+[spring配置数据库相关文档](https://docs.spring.io/spring-boot/docs/2.0.0.RC1/reference/htmlsingle/#boot-features-configure-datasource)
 ##工具
 
 https://square.github.io/okhttp/
